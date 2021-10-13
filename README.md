@@ -65,4 +65,12 @@ Date: <Today's-Date-Here>
 
 ![image](https://user-images.githubusercontent.com/23385605/137084169-69190140-9529-469d-b2cd-c97a579f5404.png)
 
-<h2> Step-4: Create new file as <ArticleTitle-YourName.md></h2>
+<h2> Step-4: Create new file as {ArticleTitle-YourName.md} and write your article in that file </h2>
+  
+  <img src="assets/CreatingNewFileForArticle.gif"></img>
+  
+
+<h2> Step-5: Commit changes with a message as {Article Title-YourName} </h2>  
+  
+  ![image](https://user-images.githubusercontent.com/23385605/137120389-9b53c8de-5cb2-418a-b05c-46d0aac69ee7.png)
+
