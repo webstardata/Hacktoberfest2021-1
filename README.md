@@ -37,7 +37,9 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 
 
 <h2><strong> Step-1: </strong> Fork this Repository</h2>
-![image](https://user-images.githubusercontent.com/23385605/137080616-0091084c-d8c8-4588-9f1b-6aa89b606597.png)
+
+![image](https://user-images.githubusercontent.com/23385605/137081570-123c1118-fea3-496b-9f28-6cfee0b21bdc.png)
+
 
 
 <h2><strong> Step-2: </strong> Copy the given template</h2>
