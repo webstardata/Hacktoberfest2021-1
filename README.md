@@ -31,3 +31,32 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 - Organize an event
 - Mentor others
 - Donate directly to open source projects
+
+
+
+
+
+<h2><strong> Step-1: </strong> Fork this Repository</h2>
+![image](https://user-images.githubusercontent.com/23385605/137080616-0091084c-d8c8-4588-9f1b-6aa89b606597.png)
+
+
+<h2><strong> Step-2: </strong> Copy the given template</h2>
+
+```
+
+=======================================================
+
+Article Title: <YourArticle-Title-Here>
+Author Name: <YourName-Here>
+Author Profile: <YourGithubProfile-Link-Here>
+Date: <Today's-Date-Here>
+
+=======================================================
+
+<Write-Your-Complete-Tech-Article-Here>
+
+
+```
+
+
+<h2> Step-3: Go to Tech-Article Folder</h2>
