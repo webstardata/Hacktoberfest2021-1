@@ -1,4 +1,4 @@
-<img align="center" width="1000" alt="logo" src="assets/DECODERS-HACKTOBERFEST-2021.png">
+<img align="center" width="1000" alt="logo" src="assets/Hacktoberfest2021-repo.png">
 
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
 <br/>
