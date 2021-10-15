@@ -76,5 +76,9 @@ Date: <Today's-Date-Here>
 
 <h2> Step-6: Open Pull Request </h2>  
   
-  ![image]()
+  ![image](https://github.com/harshit-sharma-gits/Hacktoberfest2021-1/blob/main/assets/OpenPullRequest_1.png)
+  <br><br>
+  Then Confirm PR
+  <br>
+  ![image](https://github.com/harshit-sharma-gits/Hacktoberfest2021-1/blob/main/assets/OpenPullRequest_2.png)
 
