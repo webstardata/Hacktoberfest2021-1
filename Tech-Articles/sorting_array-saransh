@@ -1,0 +1,39 @@
+=======================================================
+
+Article Title: <Sorting In Array(Ascending Order>
+Author Name: <Saransh Gangwar>
+Author Profile: <https://github.com/saransh052>
+Date: <14-oct-2021>
+
+=======================================================
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n;
+    cin >> n;
+    int arr[n];
+    for (int i = 0; i < n; i++)
+    {
+        cin >> arr[i];
+    }
+    for (int i = 0; i < n - 1; i++)
+    {
+        for (int j = i + 1; j < n; j++)
+        {
+            if (arr[j] < arr[i])
+            {
+                int temp = arr[j];
+                arr[j] = arr[i];
+                arr[i] = temp;
+            }
+        }
+    }
+    for (int i = 0; i < n; i++)
+    {
+        cout << arr[i] << " ";
+    }
+    return 0;
+}
