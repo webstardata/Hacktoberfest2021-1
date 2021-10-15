@@ -91,3 +91,11 @@ Date: <Today's-Date-Here>
   
   ![image](https://user-images.githubusercontent.com/23385605/137120389-9b53c8de-5cb2-418a-b05c-46d0aac69ee7.png)
 
+<h2> Step-6: Open Pull Request </h2>  
+  
+  ![image](https://github.com/harshit-sharma-gits/Hacktoberfest2021-1/blob/main/assets/OpenPullRequest_1.png)
+  <br><br>
+  Then Confirm PR
+  <br>
+  ![image](https://github.com/harshit-sharma-gits/Hacktoberfest2021-1/blob/main/assets/OpenPullRequest_2.png)
+
