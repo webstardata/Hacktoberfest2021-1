@@ -74,3 +74,7 @@ Date: <Today's-Date-Here>
   
   ![image](https://user-images.githubusercontent.com/23385605/137120389-9b53c8de-5cb2-418a-b05c-46d0aac69ee7.png)
 
+<h2> Step-6: Open Pull Request </h2>  
+  
+  ![image]()
+
