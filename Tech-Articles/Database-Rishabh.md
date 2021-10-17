@@ -1,7 +1,7 @@
 =======================================================
 
-Article Title: <Database management>
-Author Name: <Rishabh Agnihotri>
+Article Title: Database management
+Author Name: Rishabh Agnihotri
 Author Profile: <https://github.com/agnihotri099>
 
 
