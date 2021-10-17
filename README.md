@@ -99,3 +99,8 @@ Date: <Today's-Date-Here>
   <br>
   ![image](https://github.com/harshit-sharma-gits/Hacktoberfest2021-1/blob/main/assets/OpenPullRequest_2.png)
 
+
+# Contributors❤️
+<a href="https://github.com/DecodersCommunity/Hacktoberfest2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DecodersCommunity/Hacktoberfest2021" />
+</a>
