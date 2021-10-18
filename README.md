@@ -95,8 +95,9 @@ Date: <Today's-Date-Here>
   
   ![image](https://github.com/harshit-sharma-gits/Hacktoberfest2021-1/blob/main/assets/OpenPullRequest_1.png)
   <br><br>
-<h2> Step-7: Then Confirm PR
+<h2> Step-7: Then Confirm PR </h2>
   <br>
+  
   ![image](https://github.com/harshit-sharma-gits/Hacktoberfest2021-1/blob/main/assets/OpenPullRequest_2.png)
 
 
