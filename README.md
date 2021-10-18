@@ -98,9 +98,4 @@ Date: <Today's-Date-Here>
 <h2> Step-7: Then Confirm PR
   <br>
   ![image](https://github.com/harshit-sharma-gits/Hacktoberfest2021-1/blob/main/assets/OpenPullRequest_2.png)
- 
- ## The contributors 🎉
-<a href="https://github.com/DecodersCommunity/Decoders-Community/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DecodersCommunity/Decoders-Community" />
-</a>
 
