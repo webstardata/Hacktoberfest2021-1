@@ -1,0 +1,27 @@
+
+=======================================================
+
+Article Title: Increment Decrement operator
+Author Name: Rajat Dixit
+Author Profile: https://github.com/rajat7377
+Date: 19/10/2021
+
+=======================================================
+
+Increment Decrement operator
+Explanation
+Pre-increment and pre-decrement operators’ increments or decrements the value
+of the object and returns a reference to the result.
+Post-increment and post-decrement creates a copy of the object, increments or
+decrements the value of the object and returns the copy from before the
+increment or decrement.
+Post-increment(a++):
+This increases value by 1, but uses old value of a in any statement.
+Pre-increment(++a):
+This increases value by 1, and uses increased value of a in any statement.
+Post-decrement(a--):
+This decreases value by 1, but uses old value of a in any statement.
+Pre-decrement(++a):
+This decreases value by 1, and uses decreased value of a in any statement
+
+
