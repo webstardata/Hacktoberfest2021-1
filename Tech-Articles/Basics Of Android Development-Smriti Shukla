@@ -1,0 +1,25 @@
+=======================================================
+
+Article Title: Basics Of Android Development
+Author Name: Smriti Shukla
+Author Profile: https://github.com/Smriti123Shukla
+Date: 20/12/2021
+
+=======================================================
+
+Android is a popular computing platform based on the Linux® operating system. The initial commercial version of Android hit the market in 2008 in the form of a mobile phone platform, back when the most popular cell phone for a business user was the BlackBerry, when the iPhone was beginning to make meaningful waves across all sectors, and when the majority of phone users were still tapping out texts from a flip phone.
+Regardless of the moving pieces of how applications get converted from source code to running code, from a programming perspective, there are some fundamentals to understand when starting out with Android development.
+
+An Android application consists of one or more of the following four classifications:
+  
+1. Activities: An application that has a visible user interface is implemented via an activity. When you select an application from the Home screen or application launcher, an activity is started.
+
+2.Services: You can use a service for any application that needs to persist for a long time, such as a network monitor or update-checking application.
+  
+3.Content providers: The easiest way to think about content providers is to view them as a database server. A content provider’s job is to manage access to persisted data, such as the contacts on a phone. If your application is very simple, you might not necessarily create a content provider, however if you are building a larger application or one which makes data available to multiple activities and/or applications, a content provider is the proscribed means of accessing your data.
+  
+4.Broadcast receivers: You can launch an Android application to process a specific element of data or respond to an event, such as receiving a text message.
+
+5.Manifest Folder: Android Manifest is an XML file that is the root of the project source set. It describes the essential information about the app and the Android build tools, the Android Operating System, and Google Play. It contains the permission that an app might need in order to perform a specific task. It also contains the Hardware and the Software features of the app, which determines the compatibility of an app on the Play Store. It also includes special activities like services, broadcast receiver, content providers, package name, etc.
+
+6.Java Folder: The JAVA folder consists of the java files that are required to perform the background task of the app. It consists of the functionality of the buttons, calculation, storing, variables, toast(small popup message), programming function, etc. The number of these files depends upon the type of activities created.
