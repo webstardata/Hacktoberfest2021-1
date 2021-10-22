@@ -7,7 +7,11 @@ Author Profile: https://github.com/Kartikey-Kabdwal
 Date: 22-10-2021
 
 =======================================================
+
+
 What is Flutter ?
+
+
 Flutter was introduced by Google as an open-source technology for coding and creating native apps for Android and iOS.
 Flutter is relatively new as it was officially presented in December 2018 as the first stable version 1.0 at the Flutter Live event.
 Flutter combines ease of development with performance similar to native performance while maintaining visual consistency between platforms. Flutter’s programming language, Dart, was initially intended as a replacement for JavaScript.
