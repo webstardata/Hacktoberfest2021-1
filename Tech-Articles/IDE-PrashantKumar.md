@@ -1,3 +1,13 @@
+=======================================================
+
+Article Title: Integrated Development Environment (IDE)
+Author Name: Prashant Kumar
+Author Profile: https://github.com/iamprashantha
+Date: 19-10-2021
+
+=======================================================
+
+
 **What is an IDE?**
 An IDE, or Integrated Development Environment, enables programmers to consolidate the different aspects of writing a computer program.
 
@@ -31,5 +41,5 @@ When a program does not run correctly, IDEs provide debugging tools that allow p
 variables and inspect their code in a deliberate way.
 IDEs also provide hints while coding to prevent errors before compilation.
 
-**Coding On Your Computer**
-The biggest benefit to using an IDE is that it allows you to code and run Java programs on your own computer. 
+
+
