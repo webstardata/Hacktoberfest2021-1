@@ -1,3 +1,17 @@
+
+=======================================================
+
+Article Title: Tips for visualizing corona virus data.
+Author Name: Anupam Mishra
+Author Profile: https://github.com/anupamishra333
+Date: 28-10-2021
+
+=======================================================
+
+
+
+
+
 ### Tips for visualizing corona virus data.
 
 Artificial Intelligence, Machine Learning, Data science are the ruling technology of the future. Before the hype of machine learning, artificial intelligence, and big data analysis, there was statistics. We cannot do or assume above technology without data. The Data is necessary at every step. But can we take any data and start working on it.
