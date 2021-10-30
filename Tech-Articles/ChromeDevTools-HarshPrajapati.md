@@ -12,11 +12,11 @@ Date: 30-10-2021
 
 Chrome Dev Tools is one of the most used tools among web developers. But it has some amazing features that most developers are not aware of.
 In this article, I will discuss the top 5 Chrome DevTools experimental features every developer should try.
-1. CSS Overview — Every bit and piece of styles
+
+### CSS Overview — Every bit and piece of styles
+
 CSS Overview provides a summary of all the styles used in a web page.
 It includes detailed information about colors, fonts, media queries, and unused declarations. This feature comes in handy when you make CSS modifications to the UI, and you don’t need to use 3rd party tools like color picker anymore.
-
-### CSS Overview Tab on Chrome Developer Tools
   
 How to enable this feature?
 * On Google Chrome, click View -> Developer -> Developer Tools.
